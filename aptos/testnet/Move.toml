@@ -1,0 +1,9 @@
+[package]
+name = 'SupraVrf'
+version = '1.0.0'
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "4cb85bc832b57acb26a627182163be6de2f9d83f" }
+
+[addresses]
+supra_addr = "0x3c94c724e737265222ec9c48b4ef8493eedb83821bf1b65c61c68ab2ba494cd7"
