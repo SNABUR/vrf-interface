@@ -12,7 +12,6 @@ module supra_addr::supra_vrf {
     ): u64;
 
     native public fun verify_callback(
-        _sender: &signer,
         _nonce: u64,
         _message: vector<u8>,
         _signature: vector<u8>,
