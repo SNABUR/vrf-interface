@@ -18,6 +18,6 @@ module supra_addr::supra_vrf {
         _caller_address: address,
         _rng_count: u8,
         _client_seed: u64,
-    ): vector<u64>;
+    ): vector<u256>;
 
 }
