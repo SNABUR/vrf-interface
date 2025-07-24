@@ -5,7 +5,7 @@ version = '1.0.0'
 [dependencies.SupraFramework]
 git = 'https://github.com/Entropy-Foundation/aptos-core.git'
 subdir = 'aptos-move/framework/supra-framework'
-rev = 'eb6464fb1efac6a3a48feabaf4b7a042116c9fcd'
+rev = 'f9652d1f0472fc60f887605ff13f779801b039e4'
 
 [addresses]
 supra_addr = "0x186ba2ba88f4a14ca51f6ce42702c7ebdf6bfcf738d897cc98b986ded6f1219e"
